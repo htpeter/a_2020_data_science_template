@@ -69,7 +69,7 @@ itsdangerous==1.1.0
 -e git+https://github.com/google/jax@c4be97e315b00b0dcc324c7a2391a21eee0bef4a#egg=jax
 -e git+https://github.com/google/jax@c4be97e315b00b0dcc324c7a2391a21eee0bef4a#egg=jaxlib&subdirectory=build
 jedi==0.13.2
-Jinja2==2.11.1
+Jinja2==2.11.3
 jmespath==0.9.3
 joblib==0.13.2
 jsonschema==2.6.0
